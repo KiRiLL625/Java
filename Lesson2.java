@@ -180,6 +180,7 @@ public class Main {
         /*Enhanced switch (улучшенный switch)
         Доступен только с версии JDK 14+ !!!
          */
+        
         /*
         switch(a1){
             case 0 -> System.out.println(a1); Такая запись означает, что
