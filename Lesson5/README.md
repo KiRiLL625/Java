@@ -1,1 +1,1 @@
-toString(), equals(Object obj), hashCode()
+toString(), equals(Object obj), hashCode() 
