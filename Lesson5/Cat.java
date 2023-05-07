@@ -1,6 +1,7 @@
 public class Cat extends Pet {
     public Cat(String name, int age) {
-        super(name, age);
+        super(name, age); //super(parameters) вызывает конструктор суперкласса
+//                          (родительского класса, в данном случае Pet)
     }
     public void say(){
         System.out.println("Meow!");
